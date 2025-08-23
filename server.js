@@ -9,9 +9,17 @@ const app = express();
 const PORT = process.env.PORT || 3001;
 
 // Middleware
-app.use(cors());
-app.use(express.json());
-app.use(express.static('public'));
+// Replace app.use(cors()); with:
+app.use(cors({
+  origin: [
+    'http://localhost:3000',           // Local development
+    'https://mattkenn-minibar-mix.web.app', // Your Firebase URL
+    'https://your-project-id.firebaseapp.com'
+  ],
+  credentials: true,
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization']
+}));
 
 // Email transporter setup
 const createEmailTransporter = () => {
