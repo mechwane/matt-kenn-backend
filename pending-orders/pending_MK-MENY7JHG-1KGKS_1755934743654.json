@@ -1,0 +1,64 @@
+{
+  "orderId": "MK-MENY7JHG-1KGKS",
+  "customerName": "Adam Adekanye",
+  "customerEmail": "adamadekanye941@gmail.com",
+  "customerPhone": "09069522633",
+  "customerAddress": "43, anisere street ayobo round about",
+  "deliveryArea": {
+    "name": "Harmony",
+    "fee": 500,
+    "zone": "Alabata road"
+  },
+  "items": [
+    {
+      "id": "smooth1",
+      "name": "Banana Caramel",
+      "price": 7000,
+      "category": "Smoothies",
+      "description": "Sweet banana with caramel swirl",
+      "image": "https://i.supaimg.com/7eea33a4-f532-4c6b-bc28-b5c458db6bb6.jpg",
+      "finalPrice": 7000,
+      "quantity": 2
+    },
+    {
+      "id": "nigerian2",
+      "name": "Fufu",
+      "price": 200,
+      "category": "Nigerian Dishes",
+      "needsSoup": true,
+      "needsMeat": true,
+      "needsQuantity": true,
+      "hasAutoTakeaway": true,
+      "description": "Pounded yam - per piece + ₦300 takeaway",
+      "image": "https://i.supaimg.com/0bc6164a-84a4-4e65-817d-40fb5c135ab8.jpg",
+      "soup": {
+        "id": "efo riro",
+        "name": "Efo riro Soup",
+        "price": 200
+      },
+      "meat": [
+        {
+          "id": "beef",
+          "name": "Beef",
+          "price": 200,
+          "quantity": 2
+        }
+      ],
+      "itemQuantity": 1,
+      "finalPrice": 1100,
+      "quantity": 1
+    }
+  ],
+  "subtotal": 15100,
+  "deliveryFee": 500,
+  "total": 15600,
+  "bankDetails": {
+    "accountName": "Mathias Kehinde",
+    "accountNumber": "8143621287",
+    "bankName": "Opay"
+  },
+  "orderDate": "2025-08-23T07:39:03.653Z",
+  "status": "pending_payment",
+  "paymentDeadline": "2025-08-23T08:09:03.653Z",
+  "paymentProofUploaded": false
+}

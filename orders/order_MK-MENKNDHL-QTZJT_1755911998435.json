@@ -1,0 +1,40 @@
+{
+  "orderId": "MK-MENKNDHL-QTZJT",
+  "customerName": "Adam Adekanye",
+  "customerEmail": "adamadekanye941@gmail.com",
+  "customerPhone": "09069522633",
+  "customerAddress": "43, anisere street ayobo round about",
+  "deliveryArea": {
+    "name": "Harmony",
+    "fee": 500,
+    "zone": "Alabata road"
+  },
+  "items": [
+    {
+      "id": "milk1",
+      "name": "Strawberry Milkshake",
+      "price": 7000,
+      "category": "Milkshakes",
+      "description": "Creamy strawberry goodness",
+      "image": "https://i.supaimg.com/1c960f08-89c7-4080-98dd-b1c71f8f2f29.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    }
+  ],
+  "subtotal": 7000,
+  "deliveryFee": 500,
+  "total": 7500,
+  "bankDetails": {
+    "accountName": "Mathias Kehinde",
+    "accountNumber": "8143621287",
+    "bankName": "Opay"
+  },
+  "orderDate": "2025-08-23T01:19:27.753Z",
+  "status": "payment_submitted",
+  "paymentDeadline": "2025-08-23T01:49:27.753Z",
+  "paymentProofUploaded": true,
+  "paymentReference": "5677",
+  "paymentMethod": "Bank Transfer",
+  "customerNote": "ghhh",
+  "paymentSubmissionDate": "2025-08-23T01:19:58.434Z"
+}

@@ -1,0 +1,36 @@
+{
+  "orderId": "MK-MEM3D929-H4VNP",
+  "customerName": "Adam Adekanye",
+  "customerEmail": "adamadekanye941@gmail.com",
+  "customerPhone": "09069522633",
+  "customerAddress": "43, anisere street ayobo round about",
+  "deliveryArea": {
+    "name": "Oluwo",
+    "fee": 700,
+    "zone": "Alabata road"
+  },
+  "items": [
+    {
+      "id": "smooth2",
+      "name": "Strawberry Daiquiri",
+      "price": 7000,
+      "category": "Smoothies",
+      "description": "Refreshing strawberry blend",
+      "image": "https://i.supaimg.com/c72f3ae6-2437-47ba-91d4-c64f57149f6e.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    }
+  ],
+  "subtotal": 7000,
+  "deliveryFee": 700,
+  "total": 7700,
+  "bankDetails": {
+    "accountName": "Mathias Kehinde",
+    "accountNumber": "8143621287",
+    "bankName": "Opay"
+  },
+  "orderDate": "2025-08-22T00:27:55.809Z",
+  "status": "pending_payment",
+  "paymentDeadline": "2025-08-22T00:57:55.809Z",
+  "paymentProofUploaded": false
+}

@@ -1,0 +1,62 @@
+{
+  "orderId": "MK-MEGQ8O6Q-0Q5FQ",
+  "customerName": "Adam Adekanye",
+  "customerEmail": "adamadekanye941@gmail.com",
+  "customerPhone": "09069522633",
+  "customerAddress": "43, anisere street ayobo round about",
+  "deliveryArea": {
+    "name": "Ikoyi",
+    "fee": 2000,
+    "zone": "Island"
+  },
+  "items": [
+    {
+      "id": "milk1",
+      "name": "Strawberry Milkshake",
+      "price": 7000,
+      "category": "Milkshakes",
+      "description": "Creamy strawberry goodnessp
+      "image": "https://i.supaimg.com/1c960f08-89c7-4080-98dd-b1c71f8f2f29.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    },
+    {
+      "id": "nigerian2",
+      "name": "Fufu",
+      "price": 200,
+      "category": "Nigerian Dishes",
+      "needsSoup": true,
+      "needsMeat": true,
+      "needsQuantity": true,
+      "hasAutoTakeaway": true,
+      "description": "Pounded yam - per piece + ₦300 takeaway",
+      "image": "https://i.supaimg.com/0bc6164a-84a4-4e65-817d-40fb5c135ab8.jpg",
+      "soup": {
+        "id": "egusi",
+        "name": "Egusi Soup",
+        "price": 2800
+      },
+      "meat": [
+        {
+          "id": "chicken",
+          "name": "Chicken",
+          "price": 500,
+          "quantity": 2
+        }
+      ],
+      "itemQuantity": 1,
+      "finalPrice": 4300,
+      "quantity": 1
+    }
+  ],
+  "subtotal": 11300,
+  "deliveryFee": 2000,
+  "total": 13300,
+  "bankDetails": {
+    "accountName": "Matt-Kenn Restaurant",
+    "accountNumber": "1234567890",
+    "bankName": "First Bank Nigeria"
+  },
+  "orderDate": "2025-08-18T06:21:36.242Z",
+  "status": "pending_payment"
+}

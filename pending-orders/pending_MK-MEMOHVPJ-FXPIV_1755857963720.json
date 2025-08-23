@@ -1,0 +1,112 @@
+{
+  "orderId": "MK-MEMOHVPJ-FXPIV",
+  "customerName": "Adam Adekanye",
+  "customerEmail": "adamadekanye941@gmail.com",
+  "customerPhone": "09069522633",
+  "customerAddress": "43, anisere street ayobo round about",
+  "deliveryArea": {
+    "name": "Accord",
+    "fee": 500,
+    "zone": "Alabata road"
+  },
+  "items": [
+    {
+      "id": "shot4",
+      "name": "Rum Shot",
+      "price": 1500,
+      "category": "Shots",
+      "ingredients": [
+        "Premium Rum"
+      ],
+      "image": "https://i.supaimg.com/7ce9f503-30bf-4a20-b22c-bcae0d9e9b09.jpg",
+      "finalPrice": 1500,
+      "quantity": 1
+    },
+    {
+      "id": "shot5",
+      "name": "Gin Shot",
+      "price": 1500,
+      "category": "Shots",
+      "ingredients": [
+        "Premium Gin"
+      ],
+      "image": "https://i.supaimg.com/f77a2b7f-15eb-4a48-844f-cde26a0a7648.jpg",
+      "finalPrice": 1500,
+      "quantity": 1
+    },
+    {
+      "id": "other1",
+      "name": "Spicy Asun",
+      "price": 2000,
+      "category": "small chops",
+      "description": "Spicy grilled goat meat",
+      "image": "https://i.supaimg.com/1760aff3-d0ae-485b-bc7c-577f60233cb7.jpg",
+      "finalPrice": 2000,
+      "quantity": 1
+    },
+    {
+      "id": "other2",
+      "name": "Assorted Meat",
+      "price": 3000,
+      "category": "small chops",
+      "description": "Mixed grilled meats",
+      "image": "https://i.supaimg.com/9b0095a2-158b-43b7-94b4-95b29299b7c3.jpg",
+      "finalPrice": 3000,
+      "quantity": 1
+    },
+    {
+      "id": "pepper3",
+      "name": "Assorted Pepper Soup",
+      "price": 5000,
+      "category": "Pepper Soups",
+      "ingredients": [
+        "Assorted Meat",
+        "Cow Leg",
+        "Kpomo",
+        "Pepper Soup Spices",
+        "Scent Leaves"
+      ],
+      "image": "https://i.supaimg.com/aeeb12c2-26d5-4bff-9542-66b658252044.jpg",
+      "finalPrice": 5000,
+      "quantity": 1
+    },
+    {
+      "id": "shot1",
+      "name": "Tequila Shot",
+      "price": 1500,
+      "category": "Shots",
+      "ingredients": [
+        "Premium Tequila",
+        "Lime",
+        "Salt"
+      ],
+      "image": "https://i.supaimg.com/1b1350c3-fc33-40fe-a990-9ea02172e43e.jpg",
+      "finalPrice": 1500,
+      "quantity": 1
+    },
+    {
+      "id": "shot2",
+      "name": "Vodka Shot",
+      "price": 1500,
+      "category": "Shots",
+      "ingredients": [
+        "Premium Vodka"
+      ],
+      "image": "https://i.supaimg.com/bcee7e88-c885-4872-ba66-17b79ade6200.jpg",
+      "finalPrice": 1500,
+      "quantity": 1
+    }
+  ],
+  "subtotal": 16000,
+  "deliveryFee": 500,
+  "total": 16500,
+  "bankDetails": {
+    "accountName": "Mathias Kehinde",
+    "accountNumber": "8143621287",
+    "bankName": "Opay"
+  },
+  "orderDate": "2025-08-22T10:19:23.719Z",
+  "status": "pending_payment",
+  "paymentDeadline": "2025-08-22T10:49:23.719Z",
+  "paymentProofUploaded": false
+}

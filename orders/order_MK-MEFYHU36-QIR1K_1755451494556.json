@@ -1,0 +1,58 @@
+{
+  "orderId": "MK-MEFYHU36-QIR1K",
+  "customerName": "Adam Adekanye",
+  "customerEmail": "adamadekanye941@gmail.com",
+  "customerPhone": "09069522633",
+  "customerAddress": "43, anisere street ayobo round about",
+  "deliveryArea": {
+    "name": "Victoria Island",
+    "fee": 2000,
+    "zone": "Island"
+  },
+  "items": [
+    {
+      "id": "nigerian1",
+      "name": "Eba",
+      "price": 200,
+      "category": "Nigerian Dishes",
+      "needsSoup": true,
+      "needsMeat": true,
+      "needsQuantity": true,
+      "hasAutoTakeaway": true,
+      "description": "Garri swallow - per piece + ₦300 takeaway",
+      "image": "https://i.supaimg.com/a886b7f9-ee69-41b8-84d9-10f41c00d71f.jpg",
+      "soup": {
+        "id": "egusi",
+        "name": "Egusi Soup",
+        "price": 2800
+      },
+      "meat": [
+        {
+          "id": "beef",
+          "name": "Beef",
+          "price": 200,
+          "quantity": 2
+        },
+        {
+          "id": "goat-meat",
+          "name": "Goat Meat",
+          "price": 400,
+          "quantity": 2
+        }
+      ],
+      "itemQuantity": 1,
+      "finalPrice": 4500,
+      "quantity": 1
+    }
+  ],
+  "subtotal": 4500,
+  "deliveryFee": 2000,
+  "total": 6500,
+  "bankDetails": {
+    "accountName": "Matt-Kenn Restaurant",
+    "accountNumber": "1234567890",
+    "bankName": "First Bank Nigeria"
+  },
+  "orderDate": "2025-08-17T17:24:54.546Z",
+  "status": "pending_payment"
+}

@@ -1,0 +1,40 @@
+{
+  "orderId": "MK-MENY9595-1EV6W",
+  "customerName": "Adam Adekanye",
+  "customerEmail": "adamadekanye941@gmail.com",
+  "customerPhone": "09069522633",
+  "customerAddress": "43, anisere street ayobo round about",
+  "deliveryArea": {
+    "name": "Oluwo",
+    "fee": 700,
+    "zone": "Alabata road"
+  },
+  "items": [
+    {
+      "id": "nigerian8",
+      "name": "Bread",
+      "price": 500,
+      "category": "Nigerian Dishes",
+      "description": "Fresh baked bread",
+      "image": "https://i.supaimg.com/ecb7cdbe-2df2-4394-9e59-b30447401de5.jpg",
+      "finalPrice": 500,
+      "quantity": 1
+    }
+  ],
+  "subtotal": 500,
+  "deliveryFee": 700,
+  "total": 1200,
+  "bankDetails": {
+    "accountName": "Mathias Kehinde",
+    "accountNumber": "8143621287",
+    "bankName": "Opay"
+  },
+  "orderDate": "2025-08-23T07:40:18.521Z",
+  "status": "payment_submitted",
+  "paymentDeadline": "2025-08-23T08:10:18.521Z",
+  "paymentProofUploaded": true,
+  "paymentReference": "6767",
+  "paymentMethod": "Bank Transfer",
+  "customerNote": "rtt",
+  "paymentSubmissionDate": "2025-08-23T07:40:32.370Z"
+}

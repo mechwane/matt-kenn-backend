@@ -1,0 +1,46 @@
+{
+  "orderId": "MK-MEKUDPH3-P8XT5",
+  "customerName": "Adam Adekanye",
+  "customerEmail": "adamadekanye941@gmail.com",
+  "customerPhone": "09069522633",
+  "customerAddress": "43, anisere street ayobo round about",
+  "deliveryArea": {
+    "name": "Ikoyi",
+    "fee": 2000,
+    "zone": "Island"
+  },
+  "items": [
+    {
+      "id": "rice2",
+      "name": "Fried Rice",
+      "price": 400,
+      "category": "Rice Dishes",
+      "isBySpoon": true,
+      "needsMeat": true,
+      "hasAutoTakeaway": true,
+      "description": "Per spoon + ₦300 takeaway",
+      "image": "https://i.supaimg.com/f1d4e6b0-55ce-46d0-a95e-2c69fb95f2d4.jpg",
+      "meat": [
+        {
+          "id": "beef",
+          "name": "Beef",
+          "price": 200,
+          "quantity": 2
+        }
+      ],
+      "spoons": 1,
+      "finalPrice": 1400,
+      "quantity": 1
+    }
+  ],
+  "subtotal": 1400,
+  "deliveryFee": 2000,
+  "total": 3400,
+  "bankDetails": {
+    "accountName": "Matt-Kenn Restaurant",
+    "accountNumber": "1234567890",
+    "bankName": "First Bank Nigeria"
+  },
+  "orderDate": "2025-08-21T03:28:34.359Z",
+  "status": "pending_payment"
+}

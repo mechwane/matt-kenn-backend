@@ -1,0 +1,52 @@
+{
+  "orderId": "MK-MEKGPYZS-48PXT",
+  "customerName": "Adam Adekanye",
+  "customerEmail": "adamadekanye941@gmail.com",
+  "customerPhone": "09069522633",
+  "customerAddress": "43, anisere street ayobo round about",
+  "deliveryArea": {
+    "name": "Ikoyi",
+    "fee": 2000,
+    "zone": "Island"
+  },
+  "items": [
+    {
+      "id": "nigerian3",
+      "name": "Semo",
+      "price": 200,
+      "category": "Nigerian Dishes",
+      "needsSoup": true,
+      "needsMeat": true,
+      "needsQuantity": true,
+      "hasAutoTakeaway": true,
+      "description": "Semolina swallow - per piece + ₦300 takeaway",
+      "image": "https://i.supaimg.com/19873c63-ba37-4728-bca3-33114ff6fba0.jpg",
+      "soup": {
+        "id": "efo-egusi",
+        "name": "Efo with Egusi Soup",
+        "price": 3200
+      },
+      "meat": [
+        {
+          "id": "goat-meat",
+          "name": "Goat Meat",
+          "price": 400,
+          "quantity": 2
+        }
+      ],
+      "itemQuantity": 2,
+      "finalPrice": 4700,
+      "quantity": 1
+    }
+  ],
+  "subtotal": 4700,
+  "deliveryFee": 2000,
+  "total": 6700,
+  "bankDetails": {
+    "accountName": "Matt-Kenn Restaurant",
+    "accountNumber": "1234567890",
+    "bankName": "First Bank Nigeria"
+  },
+  "orderDate": "2025-08-20T21:06:11.944Z",
+  "status": "pending_payment"
+}

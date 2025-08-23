@@ -1,0 +1,42 @@
+{
+  "orderId": "MK-MEM28RNR-6BQYL",
+  "customerName": "Adam Adekanye",
+  "customerEmail": "adamadekanye941@gmail.com",
+  "customerPhone": "09069522633",
+  "customerAddress": "43, anisere street ayobo round about",
+  "deliveryArea": {
+    "name": "Elewran",
+    "fee": 1000,
+    "zone": "Obantoko"
+  },
+  "items": [
+    {
+      "id": "shot3",
+      "name": "Whiskey Shot",
+      "price": 2000,
+      "category": "Shots",
+      "ingredients": [
+        "Premium Whiskey"
+      ],
+      "image": "https://i.supaimg.com/c0d1145c-63da-4665-a51f-bcab1d51fe85.jpg",
+      "finalPrice": 2000,
+      "quantity": 1
+    }
+  ],
+  "subtotal": 2000,
+  "deliveryFee": 1000,
+  "total": 3000,
+  "bankDetails": {
+    "accountName": "Mathias Kehinde",
+    "accountNumber": "8143621287",
+    "bankName": "Opay"
+  },
+  "orderDate": "2025-08-21T23:56:27.015Z",
+  "status": "payment_submitted",
+  "paymentDeadline": "2025-08-22T00:26:27.015Z",
+  "paymentProofUploaded": true,
+  "paymentReference": "yhh45666",
+  "paymentMethod": "Bank Transfer",
+  "customerNote": "4566776",
+  "paymentSubmissionDate": "2025-08-21T23:57:04.804Z"
+}

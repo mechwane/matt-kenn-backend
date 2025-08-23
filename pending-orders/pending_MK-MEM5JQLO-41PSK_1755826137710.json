@@ -1,0 +1,42 @@
+{
+  "orderId": "MK-MEM5JQLO-41PSK",
+  "customerName": "Adam Adekanye",
+  "customerEmail": "adamadekanye941@gmail.com",
+  "customerPhone": "09069522633",
+  "customerAddress": "43, anisere street ayobo round about",
+  "deliveryArea": {
+    "name": "Oluwo",
+    "fee": 700,
+    "zone": "Alabata road"
+  },
+  "items": [
+    {
+      "id": "pepper1",
+      "name": "Goat Meat Pepper Soup",
+      "price": 5000,
+      "category": "Pepper Soups",
+      "ingredients": [
+        "Goat Meat",
+        "Pepper Soup Spices",
+        "Scent Leaves",
+        "Ginger",
+        "Garlic"
+      ],
+      "image": "https://i.supaimg.com/771561e3-4498-4451-8519-d90172927f3e.jpg",
+      "finalPrice": 5000,
+      "quantity": 1
+    }
+  ],
+  "subtotal": 5000,
+  "deliveryFee": 700,
+  "total": 5700,
+  "bankDetails": {
+    "accountName": "Mathias Kehinde",
+    "accountNumber": "8143621287",
+    "bankName": "Opay"
+  },
+  "orderDate": "2025-08-22T01:28:57.708Z",
+  "status": "pending_payment",
+  "paymentDeadline": "2025-08-22T01:58:57.708Z",
+  "paymentProofUploaded": false
+}

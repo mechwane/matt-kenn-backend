@@ -1,0 +1,58 @@
+{
+  "orderId": "MK-MEM1BQMC-4ERJ2",
+  "customerName": "Adam Adekanye",
+  "customerEmail": "adamadekanye941@gmail.com",
+  "customerPhone": "09069522633",
+  "customerAddress": "43, anisere street ayobo round about",
+  "deliveryArea": {
+    "name": "Oluwo",
+    "fee": 700,
+    "zone": "Alabata road"
+  },
+  "items": [
+    {
+      "id": "cock1",
+      "name": "Long Island Iced Tea",
+      "price": 7000,
+      "category": "Cocktails",
+      "ingredients": [
+        "Vodka",
+        "Light Rum",
+        "Tequila",
+        "Gin",
+        "Lime Juice",
+        "Coke",
+        "Simple Syrup"
+      ],
+      "image": "https://i.supaimg.com/8a774346-7240-4b57-8924-72915bc36096.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    },
+    {
+      "id": "cock6",
+      "name": "Green Screwdriver",
+      "price": 5000,
+      "category": "Cocktails",
+      "ingredients": [
+        "Vodka",
+        "Orange Juice",
+        "Simple Syrup"
+      ],
+      "image": "https://i.supaimg.com/5777a94b-6758-40ca-98b6-6fd84d5d249a.jpg",
+      "finalPrice": 5000,
+      "quantity": 1
+    }
+  ],
+  "subtotal": 12000,
+  "deliveryFee": 700,
+  "total": 12700,
+  "bankDetails": {
+    "accountName": "Mathias Kehinde",
+    "accountNumber": "8143621287",
+    "bankName": "Opay"
+  },
+  "orderDate": "2025-08-21T23:30:46.020Z",
+  "status": "pending_payment",
+  "paymentDeadline": "2025-08-22T00:00:46.020Z",
+  "paymentProofUploaded": false
+}

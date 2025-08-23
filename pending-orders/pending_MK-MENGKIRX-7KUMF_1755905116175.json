@@ -1,0 +1,84 @@
+{
+  "orderId": "MK-MENGKIRX-7KUMF",
+  "customerName": "Adam Adekanye",
+  "customerEmail": "adamadekanye941@gmail.com",
+  "customerPhone": "09069522633",
+  "customerAddress": "43, anisere street ayobo round about",
+  "deliveryArea": {
+    "name": "Accord",
+    "fee": 500,
+    "zone": "Alabata road"
+  },
+  "items": [
+    {
+      "id": "cock1",
+      "name": "Long Island Iced Tea",
+      "price": 7000,
+      "category": "Cocktails",
+      "ingredients": [
+        "Vodka",
+        "Light Rum",
+        "Tequila",
+        "Gin",
+        "Lime Juice",
+        "Coke",
+        "Simple Syrup"
+      ],
+      "image": "https://i.supaimg.com/8a774346-7240-4b57-8924-72915bc36096.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    },
+    {
+      "id": "cock2",
+      "name": "Sex on the Beach",
+      "price": 7000,
+      "category": "Cocktails",
+      "ingredients": [
+        "Vodka",
+        "Tequila",
+        "Cranberry",
+        "Orange Juice"
+      ],
+      "image": "https://i.supaimg.com/d64d67e6-6bfa-48c8-bd45-c9b60da4cb32.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    },
+    {
+      "id": "cock3",
+      "name": "Tequila Sunrise",
+      "price": 7000,
+      "category": "Cocktails",
+      "ingredients": [
+        "Tequila",
+        "Grenadine",
+        "Orange Juice",
+        "Sprite"
+      ],
+      "image": "https://i.supaimg.com/d2b39fb8-2bdc-4bd2-9a45-7697c0b715fd.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    },
+    {
+      "id": "smooth2",
+      "name": "Strawberry Daiquiri",
+      "price": 7000,
+      "category": "Smoothies",
+      "description": "Refreshing strawberry blend",
+      "image": "https://i.supaimg.com/c72f3ae6-2437-47ba-91d4-c64f57149f6e.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    }
+  ],
+  "subtotal": 28000,
+  "deliveryFee": 500,
+  "total": 28500,
+  "bankDetails": {
+    "accountName": "Mathias Kehinde",
+    "accountNumber": "8143621287",
+    "bankName": "Opay"
+  },
+  "orderDate": "2025-08-22T23:25:16.173Z",
+  "status": "pending_payment",
+  "paymentDeadline": "2025-08-22T23:55:16.173Z",
+  "paymentProofUploaded": false
+}

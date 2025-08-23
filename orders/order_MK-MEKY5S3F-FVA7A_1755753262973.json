@@ -1,0 +1,54 @@
+{
+  "orderId": "MK-MEKY5S3F-FVA7A",
+  "customerName": "Adam Adekanye",
+  "customerEmail": "adamadekanye941@gmail.com",
+  "customerPhone": "09069522633",
+  "customerAddress": "43, anisere street ayobo round about",
+  "deliveryArea": {
+    "name": "Surulere",
+    "fee": 2000,
+    "zone": "Mainland"
+  },
+  "items": [
+    {
+      "id": "milk2",
+      "name": "Chocolate Milkshake",
+      "price": 7000,
+      "category": "Milkshakes",
+      "description": "Rich chocolate flavor",
+      "image": "https://i.imgur.com/TJrXjVT.jpeg",
+      "finalPrice": 7000,
+      "quantity": 1
+    },
+    {
+      "id": "milk3",
+      "name": "Vanilla Milkshake",
+      "price": 7000,
+      "category": "Milkshakes",
+      "description": "Classic vanilla taste",
+      "image": "https://i.supaimg.com/f9b6ea09-af94-49d4-b215-a2f15c5f243f.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    },
+    {
+      "id": "smooth1",
+      "name": "Banana Caramel",
+      "price": 7000,
+      "category": "Smoothies",
+      "description": "Sweet banana with caramel swirl",
+      "image": "https://i.supaimg.com/7eea33a4-f532-4c6b-bc28-b5c458db6bb6.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    }
+  ],
+  "subtotal": 21000,
+  "deliveryFee": 2000,
+  "total": 23000,
+  "bankDetails": {
+    "accountName": "Matt-Kenn Restaurant",
+    "accountNumber": "1234567890",
+    "bankName": "First Bank Nigeria"
+  },
+  "orderDate": "2025-08-21T05:14:22.971Z",
+  "status": "pending_payment"
+}

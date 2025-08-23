@@ -1,0 +1,66 @@
+{
+  "orderId": "MK-MENACNSE-M2T2X",
+  "customerName": "Adam Adekanye",
+  "customerEmail": "adamadekanye941@gmail.com",
+  "customerPhone": "09069522633",
+  "customerAddress": "43, anisere street ayobo round about",
+  "deliveryArea": {
+    "name": "Oluwo",
+    "fee": 700,
+    "zone": "Alabata road"
+  },
+  "items": [
+    {
+      "id": "milk1",
+      "name": "Strawberry Milkshake",
+      "price": 7000,
+      "category": "Milkshakes",
+      "description": "Creamy strawberry goodness",
+      "image": "https://i.supaimg.com/1c960f08-89c7-4080-98dd-b1c71f8f2f29.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    },
+    {
+      "id": "milk2",
+      "name": "Chocolate Milkshake",
+      "price": 7000,
+      "category": "Milkshakes",
+      "description": "Rich chocolate flavor",
+      "image": "https://i.imgur.com/TJrXjVT.jpeg",
+      "finalPrice": 7000,
+      "quantity": 1
+    },
+    {
+      "id": "milk3",
+      "name": "Vanilla Milkshake",
+      "price": 7000,
+      "category": "Milkshakes",
+      "description": "Classic vanilla taste",
+      "image": "https://i.supaimg.com/f9b6ea09-af94-49d4-b215-a2f15c5f243f.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    },
+    {
+      "id": "smooth1",
+      "name": "Banana Caramel",
+      "price": 7000,
+      "category": "Smoothies",
+      "description": "Sweet banana with caramel swirl",
+      "image": "https://i.supaimg.com/7eea33a4-f532-4c6b-bc28-b5c458db6bb6.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    }
+  ],
+  "subtotal": 28000,
+  "deliveryFee": 700,
+  "total": 28700,
+  "bankDetails": {
+    "accountName": "Mathias Kehinde",
+    "accountNumber": "8143621287",
+    "bankName": "Opay"
+  },
+  "orderDate": "2025-08-22T20:31:11.726Z",
+  "status": "pending_payment",
+  "paymentDeadline": "2025-08-22T21:01:11.726Z",
+  "paymentProofUploaded": false
+}

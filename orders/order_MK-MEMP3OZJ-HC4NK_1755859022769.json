@@ -1,0 +1,113 @@
+{
+  "orderId": "MK-MEMP3OZJ-HC4NK",
+  "customerName": "Adam Adekanye",
+  "customerEmail": "adamadekanye941@gmail.com",
+  "customerPhone": "09069522633",
+  "customerAddress": "43, anisere street ayobo round about",
+  "deliveryArea": {
+    "name": "Harmony",
+    "fee": 500,
+    "zone": "Alabata road"
+  },
+  "items": [
+    {
+      "id": "milk1",
+      "name": "Strawberry Milkshake",
+      "price": 7000,
+      "category": "Milkshakes",
+      "description": "Creamy strawberry goodness",
+      "image": "https://i.supaimg.com/1c960f08-89c7-4080-98dd-b1c71f8f2f29.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    },
+    {
+      "id": "milk2",
+      "name": "Chocolate Milkshake",
+      "price": 7000,
+      "category": "Milkshakes",
+      "description": "Rich chocolate flavor",
+      "image": "https://i.imgur.com/TJrXjVT.jpeg",
+      "finalPrice": 7000,
+      "quantity": 1
+    },
+    {
+      "id": "milk3",
+      "name": "Vanilla Milkshake",
+      "price": 7000,
+      "category": "Milkshakes",
+      "description": "Classic vanilla taste",
+      "image": "https://i.supaimg.com/f9b6ea09-af94-49d4-b215-a2f15c5f243f.jpg",
+      "finalPrice": 7000,
+      "quantity": 2
+    },
+    {
+      "id": "smooth1",
+      "name": "Banana Caramel",
+      "price": 7000,
+      "category": "Smoothies",
+      "description": "Sweet banana with caramel swirl",
+      "image": "https://i.supaimg.com/7eea33a4-f532-4c6b-bc28-b5c458db6bb6.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    },
+    {
+      "id": "smooth2",
+      "name": "Strawberry Daiquiri",
+      "price": 7000,
+      "category": "Smoothies",
+      "description": "Refreshing strawberry blend",
+      "image": "https://i.supaimg.com/c72f3ae6-2437-47ba-91d4-c64f57149f6e.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    },
+    {
+      "id": "cock1",
+      "name": "Long Island Iced Tea",
+      "price": 7000,
+      "category": "Cocktails",
+      "ingredients": [
+        "Vodka",
+        "Light Rum",
+        "Tequila",
+        "Gin",
+        "Lime Juice",
+        "Coke",
+        "Simple Syrup"
+      ],
+      "image": "https://i.supaimg.com/8a774346-7240-4b57-8924-72915bc36096.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    },
+    {
+      "id": "cock2",
+      "name": "Sex on the Beach",
+      "price": 7000,
+      "category": "Cocktails",
+      "ingredients": [
+        "Vodka",
+        "Tequila",
+        "Cranberry",
+        "Orange Juice"
+      ],
+      "image": "https://i.supaimg.com/d64d67e6-6bfa-48c8-bd45-c9b60da4cb32.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    }
+  ],
+  "subtotal": 56000,
+  "deliveryFee": 500,
+  "total": 56500,
+  "bankDetails": {
+    "accountName": "Mathias Kehinde",
+    "accountNumber": "8143621287",
+    "bankName": "Opay"
+  },
+  "orderDate": "2025-08-22T10:36:21.439Z",
+  "status": "payment_submitted",
+  "paymentDeadline": "2025-08-22T11:06:21.439Z",
+  "paymentProofUploaded": true,
+  "paymentReference": "6778898776",
+  "paymentMethod": "Bank Transfer",
+  "customerNote": "khiiyrewssd",
+  "paymentSubmissionDate": "2025-08-22T10:37:02.769Z"
+}

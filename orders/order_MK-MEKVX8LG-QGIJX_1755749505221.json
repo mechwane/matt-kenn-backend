@@ -1,0 +1,39 @@
+{
+  "orderId": "MK-MEKVX8LG-QGIJX",
+  "customerName": "Federal university of agriculture Abeokuta (FUNAAB)",
+  "customerEmail": "adamadekanye941@gmail.com",
+  "customerPhone": "09069522633",
+  "customerAddress": "43, anisere street ayobo round about",
+  "deliveryArea": {
+    "name": "Lagos Island",
+    "fee": 1800,
+    "zone": "Island"
+  },
+  "items": [
+    {
+      "id": "cock2",
+      "name": "Sex on the Beach",
+      "price": 7000,
+      "category": "Cocktails",
+      "ingredients": [
+        "Vodka",
+        "Tequila",
+        "Cranberry",
+        "Orange Juice"
+      ],
+      "image": "https://i.supaimg.com/d64d67e6-6bfa-48c8-bd45-c9b60da4cb32.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    }
+  ],
+  "subtotal": 7000,
+  "deliveryFee": 1800,
+  "total": 8800,
+  "bankDetails": {
+    "accountName": "Matt-Kenn Restaurant",
+    "accountNumber": "1234567890",
+    "bankName": "First Bank Nigeria"
+  },
+  "orderDate": "2025-08-21T04:11:45.220Z",
+  "status": "pending_payment"
+}

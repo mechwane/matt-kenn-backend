@@ -1,0 +1,46 @@
+{
+  "orderId": "MK-MENGZ53E-7KO11",
+  "customerName": "Adam Adekanye",
+  "customerEmail": "adamadekanye941@gmail.com",
+  "customerPhone": "09069522633",
+  "customerAddress": "43, anisere street ayobo round about",
+  "deliveryArea": {
+    "name": "Accord",
+    "fee": 500,
+    "zone": "Alabata road"
+  },
+  "items": [
+    {
+      "id": "nigerian2",
+      "name": "Fufu",
+      "price": 200,
+      "category": "Nigerian Dishes",
+      "needsSoup": true,
+      "needsMeat": true,
+      "needsQuantity": true,
+      "hasAutoTakeaway": true,
+      "description": "Pounded yam - per piece + ₦300 takeaway",
+      "image": "https://i.supaimg.com/0bc6164a-84a4-4e65-817d-40fb5c135ab8.jpg",
+      "soup": {
+        "id": "egusi",
+        "name": "Egusi Soup",
+        "price": 0
+      },
+      "itemQuantity": 1,
+      "finalPrice": 500,
+      "quantity": 1
+    }
+  ],
+  "subtotal": 500,
+  "deliveryFee": 500,
+  "total": 1000,
+  "bankDetails": {
+    "accountName": "Mathias Kehinde",
+    "accountNumber": "8143621287",
+    "bankName": "Opay"
+  },
+  "orderDate": "2025-08-22T23:36:38.282Z",
+  "status": "pending_payment",
+  "paymentDeadline": "2025-08-23T00:06:38.282Z",
+  "paymentProofUploaded": false
+}
