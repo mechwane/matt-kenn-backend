@@ -21,6 +21,9 @@ app.use(cors({
   allowedHeaders: ['Content-Type', 'Authorization']
 }));
 
+app.use(express.json());
+
+
 // Email transporter setup
 const createEmailTransporter = () => {
   return nodemailer.createTransport({
