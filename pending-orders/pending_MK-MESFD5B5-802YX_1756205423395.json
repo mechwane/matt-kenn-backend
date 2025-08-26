@@ -1,0 +1,46 @@
+{
+  "orderId": "MK-MESFD5B5-802YX",
+  "customerName": "Adam Adekanye",
+  "customerEmail": "adamadekanye941@gmail.com",
+  "customerPhone": "09069522633",
+  "customerAddress": "43, anisere street ayobo round about",
+  "deliveryArea": {
+    "name": "Harmony",
+    "fee": 500,
+    "zone": "Alabata road"
+  },
+  "items": [
+    {
+      "id": "smooth1",
+      "name": "Banana Caramel",
+      "price": 7000,
+      "category": "Smoothies",
+      "description": "Sweet banana with caramel swirl",
+      "image": "https://i.supaimg.com/7eea33a4-f532-4c6b-bc28-b5c458db6bb6.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    },
+    {
+      "id": "smooth2",
+      "name": "Strawberry Daiquiri",
+      "price": 7000,
+      "category": "Smoothies",
+      "description": "Refreshing strawberry blend",
+      "image": "https://i.supaimg.com/c72f3ae6-2437-47ba-91d4-c64f57149f6e.jpg",
+      "finalPrice": 7000,
+      "quantity": 1
+    }
+  ],
+  "subtotal": 14000,
+  "deliveryFee": 500,
+  "total": 14500,
+  "bankDetails": {
+    "accountName": "Mathias Kehinde",
+    "accountNumber": "8143621287",
+    "bankName": "Opay"
+  },
+  "orderDate": "2025-08-26T10:50:23.393Z",
+  "status": "pending_payment",
+  "paymentDeadline": "2025-08-26T11:20:23.393Z",
+  "paymentProofUploaded": false
+}
